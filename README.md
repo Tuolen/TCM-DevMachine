@@ -10,7 +10,7 @@ Let's try to check for nfs
 showmount -e 10.0.2.8
 ```
 we got this :
-
+![Screenshot](20230526233505.png)
 ---
 1. We try to mount the file /srv/nfs after creating dev directory in /mnt:
 ```bash
